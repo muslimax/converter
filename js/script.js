@@ -1,6 +1,4 @@
 'use strict';
-
-'use strict';
 const requestRub = document.querySelector('#rub');
 const requestSum = document.querySelector('#sum');
 const requestUsd = document.querySelector('#usd');
